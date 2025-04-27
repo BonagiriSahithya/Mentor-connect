@@ -1,56 +1,54 @@
+🚀 Mentor-connect
 Mentor-connect is a web-based platform designed to facilitate efficient mentorship by connecting mentors and mentees. The system allows mentors to manage their profiles, availability, assessments, and feedback, while mentees can book sessions, submit assessments, track progress, and engage in real-time communication. The platform aims to enhance learning by enabling personalized mentorship and providing a seamless experience for both mentors and mentees.
 
-Technologies Used
-Frontend:
+🛠️ Technologies Used
+🎨 Frontend
+React.js ⚛️ – Powerful JavaScript library for building dynamic user interfaces
 
-React: A powerful JavaScript library for building user interfaces.
+HTML5 & CSS3 🎨 – Responsive and intuitive UI/UX design
 
-CSS/HTML: For responsive and intuitive UI/UX design.
+🛡️ Backend
+Node.js 🟢 – JavaScript runtime for backend development
 
-Backend:
+Express.js 🚂 – Minimal and flexible Node.js web application framework
 
-Node.js: A JavaScript runtime used for building the backend logic.
+MongoDB 🍃 – NoSQL database for scalable data management
 
-Express.js: A web application framework for Node.js that handles routing and middleware.
+🔒 Authentication & Security
+JWT (JSON Web Tokens) 🔑 – Secure authentication and session handling
 
-MongoDB: A NoSQL database for storing user and session data.
+bcrypt 🔒 – Password hashing for enhanced security
 
-Authentication & Security:
+📁 File Uploads
+Multer 📦 – Middleware for handling file uploads
 
-JWT (JSON Web Tokens): For secure user authentication and session management.
+💬 Real-time Communication
+Socket.io 🔗 – Real-time, bi-directional communication for chat functionality
 
-bcrypt: For password hashing to ensure security.
+✨ Features
+👩‍🏫 For Mentors
+Profile Management: Update personal details, expertise, and offered courses.
 
-File Uploads:
+Slot Management: Add, edit, or remove availability slots for mentee bookings.
 
-Multer: For handling file uploads to the server.
+Assessment Handling: Create, assign, and review mentee assessments.
 
-Real-time Communication:
+File Management: Upload and manage important session-related documents.
 
-Socket.io: For enabling real-time chat between mentors and mentees.
+👨‍🎓 For Mentees
+Profile Management: Create and personalize mentee profiles.
 
-Features
-For Mentors:
-Profile Management: Mentors can update their personal information, expertise, experience, and available courses.
+Booking System: Search and book mentor slots based on skill and availability.
 
-Slot Management: Mentors can manage their availability for sessions, allowing mentees to book appointments.
+Assessment Submission: Submit individual answers for assessments assigned.
 
-Assessment Handling: Mentors can create and assign assessments for mentees, as well as view submitted answers.
+Progress Tracking: Monitor learning journey and achievements.
 
-File Management: Mentors can upload and manage files related to sessions or assessments.
+🌟 General Features
+Real-time Chat: Seamless communication between mentors and mentees via instant messaging.
 
-For Mentees:
-Profile Management: Mentees can create and update their profiles, track booked sessions, and view progress.
+Feedback System: Mentees can rate and provide feedback to mentors after sessions.
 
-Booking System: Mentees can book slots with available mentors based on expertise and availability.
+Notifications: Stay updated on bookings, upcoming sessions, assessment deadlines, and new messages.
 
-Assessment Submission: Mentees can submit their answers to assessments assigned by mentors.
 
-Progress Tracking: Mentees can track their progress based on assessments and feedback from mentors.
-
-General Features:
-Real-time Chat: Mentors and mentees can communicate through real-time chat functionality.
-
-Feedback System: Mentees can provide feedback about mentors and sessions for continuous improvement.
-
-Notifications: Both mentors and mentees receive notifications about bookings, assessment deadlines, and messages.
