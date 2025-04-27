@@ -2,6 +2,37 @@
 
 **Mentor-connect** is a **web-based platform** designed to facilitate efficient mentorship by connecting **mentors** and **mentees**. The system allows mentors to manage their **profiles**, **availability**, **assessments**, and **feedback**, while mentees can **book sessions**, **submit assessments**, **track progress**, and engage in **real-time communication**. The platform aims to enhance learning by enabling personalized mentorship and providing a seamless experience for both mentors and mentees.
 
+## Project Screenshots
+
+Here are some screenshots of the Mentor-connect platform:
+
+- **Dashboard:**
+  ![Dashboard Screenshot](assets/images/Screenshot(452).png)
+
+- **Booking Page:**
+  ![Booking Page Screenshot](assets/images/Screenshot(452).png)
+
+- **Profile Management:**
+  ![Profile Management Screenshot](assets/Screenshot(452).png)
+
+  - **Dashboard:**
+  ![Dashboard Screenshot](assets/images/Screenshot(452).png)
+
+- **Booking Page:**
+  ![Booking Page Screenshot](assets/images/Screenshot(452).png)
+
+- **Profile Management:**
+  ![Profile Management Screenshot](assets/Screenshot(452).png)
+
+
+- **Dashboard:**
+  ![Dashboard Screenshot](assets/images/Screenshot(452).png)
+
+- **Booking Page:**
+  ![Booking Page Screenshot](assets/images/Screenshot(452).png)
+
+- **Profile Management:**
+  ![Profile Management Screenshot](assets/Screenshot(452).png)
 
 
 ## **🚀 Technologies Used**
