@@ -8,12 +8,14 @@ React.js ⚛️ – Powerful JavaScript library for building dynamic user interf
 
 HTML5 & CSS3 🎨 – Responsive and intuitive UI/UX design
 
+
 🛡️ Backend
 Node.js 🟢 – JavaScript runtime for backend development
 
 Express.js 🚂 – Minimal and flexible Node.js web application framework
 
 MongoDB 🍃 – NoSQL database for scalable data management
+
 
 🔒 Authentication & Security
 JWT (JSON Web Tokens) 🔑 – Secure authentication and session handling
@@ -35,6 +37,7 @@ Slot Management: Add, edit, or remove availability slots for mentee bookings.
 Assessment Handling: Create, assign, and review mentee assessments.
 
 File Management: Upload and manage important session-related documents.
+
 
 👨‍🎓 For Mentees
 Profile Management: Create and personalize mentee profiles.
