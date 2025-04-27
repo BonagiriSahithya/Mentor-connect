@@ -2,6 +2,7 @@
 Mentor-connect is a web-based platform designed to facilitate efficient mentorship by connecting mentors and mentees. The system allows mentors to manage their profiles, availability, assessments, and feedback, while mentees can book sessions, submit assessments, track progress, and engage in real-time communication. The platform aims to enhance learning by enabling personalized mentorship and providing a seamless experience for both mentors and mentees.
 
 🛠️ Technologies Used
+
 🎨 Frontend
 React.js ⚛️ – Powerful JavaScript library for building dynamic user interfaces
 
